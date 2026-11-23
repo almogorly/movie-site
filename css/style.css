@@ -6,7 +6,7 @@ body {
     line-height: 1.6;
 } 
 h1 {
-    color: #f5c518;
+    color: #e796bc;
     font-size: 36px;
 }
 
@@ -28,7 +28,7 @@ nav {
 
 /* ===== כרטיסי הסרטים ===== */
 .movie h2 {
-    color: #f5c518;
+    color: #e796bc;
     font-size: 24px;
 } 
 .movie span {
@@ -36,7 +36,7 @@ nav {
     font-weight: bold;
 } 
 .movie a {
-    color: #f5c518;
+    color: #e796bc;
 } 
 .movie img {
     width: 200px;
@@ -47,7 +47,7 @@ nav {
     width: 200px;
 } 
 .about h2 span {
-    color: #f5c518;
+    color: #e796bc;
 } 
 
 /* ===== כותרת תחתונה ===== */
@@ -61,6 +61,10 @@ footer a {
     color: #ffffff;
 } 
 footer span {
-    color: #f5c518;
+    color: #e796bc;
     font-weight: bold;
 } 
+
+nav a.active {
+    color: #f5c518 ;
+}
